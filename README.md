@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Estudante da graduação Sistemas de Informação - Instituição: Estácio FIB.
 - 🚀 Transformando-me em um autodidata, meu foco atual é no aprendizado das tecnologias de aplicações web.
-- 💻 Estudando (<b><i>HTML5, CSS3, JavaScript, Reactjs e Typescript</i></b>), rente com o livro (<b><i>Estruturas de dados e algoritmos com JavaScript 2ª Edição - Loiane Groner</b></i>).
+- 💻 Estudando (<b><i>HTML5, CSS3, JavaScript, Reactjs, Typescript e Git</i></b>), rente com o livro (<b><i>Estruturas de dados e algoritmos com JavaScript 2ª Edição - Loiane Groner</b></i>).
 - 💪 Atualmente estou estagiando como Suporte de TI.
 - 🗺️ Estou a procura de uma <i>oportunidade para mostrar as habilidades adquiridas nos estudos</i>, e dedicar-me ao maxímo nas atividades em equipe para alcançar e evoluir as habilidades necessárias e desejadas pela organização.
 
@@ -14,12 +14,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allex-Lima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block"><br>
      
-  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="alex-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="alex-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="alex-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="alex-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="alex-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="alex-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     
   </div>
