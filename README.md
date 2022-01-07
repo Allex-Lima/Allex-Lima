@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Estudante da graduação Sistemas de Informação - Instituição: Estácio FIB.
 - 🚀 Transformando-me em um autodidata, meu foco atual é no aprendizado das tecnologias de aplicações web.
-- 💻 Estudando (<b><i>HTML5, CSS3, JavaScript, Reactjs, Typescript e Git</i></b>), rente com o livro (<b><i>Estruturas de dados e algoritmos com JavaScript 2ª Edição - Loiane Groner</b></i>).
+- 💻 Estudando (<b><i>HTML5, CSS3, JavaScript, NodeJs, Reactjs, Typescript e Git</i></b>), rente com o livro (<b><i>Estruturas de dados e algoritmos com JavaScript 2ª Edição - Loiane Groner</b></i>).
 - 💪 Atualmente estou estagiando como Suporte de TI.
 - 🗺️ Estou a procura de uma <i>oportunidade para mostrar as habilidades adquiridas nos estudos</i>, e dedicar-me ao máximo nas atividades em equipe para alcançar e evoluir as habilidades necessárias e desejadas pela organização.
 
